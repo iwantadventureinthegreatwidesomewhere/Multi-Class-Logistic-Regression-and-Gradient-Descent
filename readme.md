@@ -1,8 +1,8 @@
-#MINI-PROJECT 2
-###David Castonguay (260804528), Marco Guida (260803123), Sean Smith (260787775)
-####COMP 551 - Mini-Project #2
+# MINI-PROJECT 2
+### David Castonguay (260804528), Marco Guida (260803123), Sean Smith (260787775)
+#### COMP 551 - Mini-Project #2
 
-##IMPORTANT:
+## IMPORTANT:
 Before running all of the cells, please make sure to understand that running with "run_search=True" will run for more than 2 hours. 
 You may take a look at the previous outputs of the plots at the end of the notebook, prior to running all. 
 While "run_search=False", no plots will appear, but there will be an instance of logistic regression, KNN, Naive Bayes and SVC that will 
