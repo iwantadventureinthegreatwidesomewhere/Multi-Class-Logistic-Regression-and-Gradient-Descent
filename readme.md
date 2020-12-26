@@ -2,4 +2,4 @@ We implemented, using Python 3, multi-class logistic regression (with softmax) f
 
 To compare the different classification algorithms, we used the digits and wine datasets from OpenML. Our multi-class logistic regression model yielded a strikingly similar validation accuracy to that of the compared classifiers for both datasets (90.9% for digits and 87.6% for wine). Therefore, our model demonstrated its ability to perform on par with some of the best available out-of-the-box classification algorithms.
 
-<img src="sample_result.png" width="500">
+<img src="preview.png" width="500">
