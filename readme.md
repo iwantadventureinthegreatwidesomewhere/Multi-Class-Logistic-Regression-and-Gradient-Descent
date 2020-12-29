@@ -4,4 +4,6 @@ We implemented multi-class logistic regression (with softmax) from scratch, reco
 
 To compare the different classification algorithms, we used the digits and wine datasets from OpenML. Our multi-class logistic regression model yielded a strikingly similar validation accuracy to that of the compared classifiers for both datasets (90.9% for digits and 87.6% for wine). Therefore, our model demonstrated its ability to perform on par with some of the best available out-of-the-box classification algorithms.
 
+See [complete paper](P2_Paper.pdf) to read more.
+
 <img src="preview.png" width="500">
